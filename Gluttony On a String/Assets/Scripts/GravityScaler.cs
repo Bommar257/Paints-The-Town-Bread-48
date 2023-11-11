@@ -12,10 +12,10 @@ public class GravityScaler : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         rb.useGravity = false;
-        gravity = Vector3.up;
+        gravity = Physics.gravity;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         rb.AddForce(gravity, ForceMode.Acceleration);
     }
