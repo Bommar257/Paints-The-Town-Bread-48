@@ -364,6 +364,7 @@
 "Assets/Scripts/Camera Follow.cs"
 "Assets/Scripts/Collision_Ignore.cs"
 "Assets/Scripts/Control Point.cs"
+"Assets/Scripts/Gamemanager.cs"
 "Assets/Scripts/GravityScaler.cs"
 "Assets/Scripts/Sample_Movement_Script.cs"
 -langversion:9.0
