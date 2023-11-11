@@ -369,6 +369,7 @@
 "Assets/Scripts/Linus/Player_Script.cs"
 "Assets/Scripts/Linus/Sample_Movement_Script.cs"
 "Assets/Scripts/Points/point_Add.cs"
+"Assets/Scripts/StartController.cs"
 "Assets/Scripts/UI_Manager.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
